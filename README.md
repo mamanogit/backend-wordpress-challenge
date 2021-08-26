@@ -30,16 +30,12 @@ Também é necessário que o administrador possa ver na tela de edição do curs
 
 ## Instruções
 
-1. Efetue o fork deste repositório e crie um branch com o seu nome e sobrenome. (exemplo: joao-santos)
-2. Após finalizar o desafio, crie um Pull Request.
-3. Aguarde alguem da nossa equipe realizar o code review.
+1. Clone o seu repositório privado
+2. Commit as suas modificações no código
+3. Faça o push
 
 ## Pré-requisitos
 
 * PHP >= 7.4
 * WordPress mais recente quando da data da realização do desafio
 * Orientado a objetos
-
-## Dúvidas
-
-Em caso de dúvidas, crie uma issue.
