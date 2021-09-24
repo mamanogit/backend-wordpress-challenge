@@ -28,14 +28,25 @@ Também é necessário que o administrador possa ver na tela de edição do curs
 * Performance
 * Organização de Código
 
-## Instruções
-
-1. Clone o seu repositório privado
-2. Commit as suas modificações no código
-3. Faça o push
-
 ## Pré-requisitos
 
 * PHP >= 7.4
 * WordPress mais recente quando da data da realização do desafio
 * Orientado a objetos
+
+## Instruções
+
+[Video](https://www.loom.com/share/db15fe7da3e54f928acbaf81eade3f08)
+
+- Crie um novo repositório e defina-o como privado
+- Clone este repositório
+- Adicione o seu repositório privado como um _remote_:
+  `git remote add upstream git@github.com:YOUR_USERNAME/backend-wordpress-challenge.git`
+- Crie um novo branch
+  `git checkout -b challenge`
+- Após finalizar seu código, faça o _push_ para o seu repositório
+  `git push upstream challenge`
+- Adicione o usuário @fuerzastudio como um colaborador do seu repositório. Essa conta do Github (@fuerzastudio) é usada apenas por nossos engenheiros para baixar e revisar seu código
+
+
+Boa Sorte! 🤞🏽
