@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="CursoFuerza">
+    <description>Curso Fuerza coding standard.</description>
+    <rule ref="WordPress">
+
+    </rule>
+</ruleset>
